@@ -1,6 +1,6 @@
 {
   "name": "birthday",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Birthday greetings..",
   "main": " ",
   "scripts": {
@@ -14,6 +14,7 @@
     "Birthday"
   ],
   "author": "Ayush Sharma",
+  "modifier": "Ayan Chowdhury",
   "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/ayusharma/birthday/issues"
